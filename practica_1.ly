@@ -1,6 +1,7 @@
 \header {
-  title = "We are the champions"
-  composer = "Queen"
+  title = "practica 1"
+  composer = "2020 04 23"
+  tagline = ""
 }
 
 
@@ -14,7 +15,7 @@ upper = \relative c'' {
   r8 < bes, d f >8 g'16 g16   d'16 c8. bes8 | <c g >4.  <ees g>8 c4  | 
   %9
   r8 < bes, d f >8 < bes d f >8   bes'-2 d-4 ees | <ees bes g>4 ees,8-3 g ees8 bes  | 
-  %11
+  %11  
   aes' ees bes bes' d es | <es bes g >4 es,8 g es bes | aes' es bes bes'-2 d-4 es-5 | 
   %14 
   <<{ees16-3 ees8. es16-3 f  f16 f8 f16 g8} \\ { g,4.-1 g4.-1 }>> | <c-1 g'-4>4 g'8 <a a,>4 bes8 |

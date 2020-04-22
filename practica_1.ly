@@ -22,6 +22,11 @@ upper = \relative c'' {
   
   \key f \major
 
+  <f, c a>4.~ <f c a>8 e f | <e c g>4 c8~ c4 a8 |
+  %21
+  <d a f>4 a8~ a4. | <f d bes>4. <c e g>4 c'8 | <f c a>4.~ <f c a>8 g a | <c g e>4 a8~ a d, e | <e g,>4.~ <e g,>8 c <bes g> | <a fis d c>2. |
+  %27
+   
   
   
 
@@ -34,7 +39,11 @@ lower = \relative c {
 
   s4. r4. | c4. c4 c8  | g'4. d8 bes g | c4. c4 c8 | g'4. d8 bes g |
   c4. c4 c8  | g'4.~ g4. | c,4. c4 c8  | g'4. r8 bes, d |  ees4.~ ees |
-  aes,4. r8 bes d | ees4.~ ees | aes,4. r8 bes d | 
+  aes,4. r8 bes d | ees4.~ ees | aes,4. r8 bes d | <ees ees,>4. <d d,>4. | <c c,>4. <f f,>4. |
+  %16
+  <bes, bes,>2. | <bes bes,>4. <bes bes,>4.  | <bes bes,>4. <c c,>4. 
+  \key f \major
+
 
 
 

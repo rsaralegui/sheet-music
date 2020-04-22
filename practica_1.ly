@@ -1,6 +1,6 @@
 \header {
-  title = "practica"
-  composer = "----"
+  title = "We are the champions"
+  composer = "Queen"
 }
 
 
@@ -9,7 +9,7 @@ upper = \relative c'' {
   \key c \minor
   \time 6/8
 
-  \partial 4. g8-2 bes-4 c-5  | <c g ees>4.  <ees g>8-35 c4 | < bes, d f >8 < bes d f>4   g'8 bes c  | <c g ees>4.  <ees g>8 c4  | 
+  \partial 4. g8-2 bes-4 c-5  | <c g ees>4.  <ees-3 g-5>8 c4 | < bes, d f >8 < bes d f>4   g'8 bes c  | <c g ees>4.  <ees g>8 c4  | 
   r8 < bes, d f >8 < bes d f>8   g'8 bes c  | <c g ees>4.  <ees g>8 c4  | 
   r8 < bes, d f >8 g'16 g16   d'16 c8. bes8 | <c g >4.  <ees g>8 c4  | 
   %9
